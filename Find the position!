@@ -1,0 +1,4 @@
+function position(letter){
+let a = 'abcdefghijklmnopqrstuvwxyz'
+ return `Position of alphabet: ${a.indexOf(letter)+1}` 
+}
